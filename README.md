@@ -1,10 +1,9 @@
 # lista_contatinhos
 
-Um novo projeto Flutter.
-
+ Um novo projeto Flutter.
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+O projeto visa a implementação de uma lista de contatos.
 
 A few resources to get you started if this is your first Flutter project:
 
