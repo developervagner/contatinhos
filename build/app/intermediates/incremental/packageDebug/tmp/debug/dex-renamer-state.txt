@@ -1,0 +1,4 @@
+#Wed Feb 16 22:14:32 BRT 2022
+base.0=/home/vagnercp/StudioProjects/Aulas/lista_contatinhos/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
